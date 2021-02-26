@@ -1,0 +1,30 @@
+img.resize {
+  width:1000px;
+  height:40px;
+}
+.header {
+ padding: 60px;
+  text-align: center;
+  background-image:url(../images/Lol.jpg);
+    padding: 200px 100px;
+    margin:100px ;
+    background-size: cover;
+  color: white;
+  font-size: 30px;
+    font-family: Arial;
+  margin: 0;
+}
+
+.class{
+    padding: 10px;
+   font-family:"Lucida Console", "Courier New", monospace; 
+    text-align:center;
+    font-size: 25px;
+}
+.center{
+    padding:5px;
+    text-align:center;
+    font-size:20px;
+    
+    
+}

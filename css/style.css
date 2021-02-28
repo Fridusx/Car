@@ -37,7 +37,23 @@ background-size: cover;
 }
 .uu
 {
+   width:auto;
+  height:auto;  
     
-    width:100px;
-  height:70px;
+    
+}
+.xyu{
+   width:750px; 
+    height:400px
+}
+
+
+.xxu{
+   width:750px; 
+    height:400px
+}
+
+.xxuu{
+    width:750px;  
+    height:550px
 }

@@ -1,6 +1,8 @@
 User-agent:*
 Disallow: /cgin-bin/
 Disallow: /images/
+Sitemap: https://carinf.tk/sitemap.xml
+
 Allow:  /images/01-future-mobility-revolution-CASE-daimler-mercedes-benz-1700x720.jpeg
 Allow:  /images/2.png
 Allow:  /images/3.jpg

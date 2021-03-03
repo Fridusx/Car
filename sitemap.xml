@@ -1,6 +1,9 @@
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
 <urL>
- <loc>http://carinf.tk</loc>   
-   <lastmod>2021-01-17T19:45:08+03:00</lastmod> 
+ <loc>https://carinf.tk</loc>   
+   <lastmod>2021-03-03</lastmod> 
     <changefreq>Weekly</changefreq>
-    <piority>1</piority>
+    <priority>0.5</priority>
 </urL>
+    </urlset>

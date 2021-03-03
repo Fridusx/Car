@@ -3,19 +3,3 @@ Disallow: /cgin-bin/
 Disallow: /images/
 Sitemap: https://carinf.tk/sitemap.xml
 
-Allow:  /images/01-future-mobility-revolution-CASE-daimler-mercedes-benz-1700x720.jpeg
-Allow:  /images/2.png
-Allow:  /images/3.jpg
-Allow:  /images/5.jpg
-Allow:  /images/10.jpg
-Allow:  /images/images/031a2afd8cd849038f68e024fc2df93b.jpg
-Allow:  /images/29917-7-ipad-transparent-image-thumb.png
-Allow:  /images/15544710505ca7588aa3579_shutterstock-1280990581.jpg
-Allow:  /images/abs-w1024xh512-cutout.jpg
-Allow:  /images/car-512.png
-Allow:  /images/ebus-mit-aeg-e-antrieb-w1024xh512-cutout.jpg
-Disallow: /pages/index.html 
-Disallow: /css/
-Disallow: /js/
-Disallow: /ajax/
-Disallow: /api/

@@ -3,3 +3,5 @@ Disallow: /cgin-bin/
 Disallow: /images/
 Sitemap: https://carinf.tk/sitemap.xml
 
+User-agent: Yandex
+Crawl-delay: 3

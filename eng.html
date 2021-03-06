@@ -1,0 +1,26 @@
+<html>
+<body>
+<select id="langselector" onchange="loadlang()">
+  <option value="en">English</option>
+  <option value="fr">French</option>
+</select>
+<p></p>
+
+<script>
+function loadlang()
+  {
+  var lng = document.getElementById("langselector").value;
+  var cnt = document.getElementById("contents");
+  switch (lng)
+    {
+    case "en":
+      cnt.src = "https://carinf.tk";
+    break;
+    case "fr":
+      cnt.src = "https://carinf.tk";
+    break;
+    }
+  }
+</script>
+</body>
+</html>

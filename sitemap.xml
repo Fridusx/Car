@@ -1,9 +1,14 @@
-<urlset xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!--
- created with Free Online Sitemap Generator www.xml-sitemaps.com 
--->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xhtml="http:www.w3.org/1999/xhtml">
 <url>
 <loc>https://carinf.tk/</loc>
-<lastmod>2021-03-06T20:03:18+00:00</lastmod>
+<lastmod>08.03.2021</lastmod>
+    <changefreq>Weekly</changefreq>
+    <priority>1</priority>
 </url>
+<url>
+    <loc>https://carinf.tk/eng.</loc>
+    <lastmod>08.03.2021</lastmod>
+    <changefreq>Monthly</changefreq>
+    <priority>1</priority>
+    </url>
 </urlset>
